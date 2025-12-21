@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "藍(あお)",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-21T04:16:04.401662Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "藍(あお) - Ao",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_藍(あお)_-_Ao_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "藍(あお)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_藍(あお)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "藍(あお)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_藍(あお)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "藍(あお)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_藍(あお)_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
